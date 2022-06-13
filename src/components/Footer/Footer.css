@@ -4,7 +4,7 @@
   background: var(--secondary-color);
 }
 .app_footer-details p {
-  height: 40vh;
+  /* height: 40vh; */
 
   padding: 23px;
   width: 100%;
@@ -25,6 +25,7 @@
 }
 
 .app__footer-navbar {
+  flex-direction: column;
   display: flex;
   overflow-y: hidden;
   justify-content: space-between;
@@ -46,7 +47,7 @@
   flex: 1;
 }
 .app__footer-logo {
-  width: 20rem;
+  /* width: 20rem; */
 }
 @media screen and (max-width: 900px) {
   .app__footer-navbar {
@@ -61,7 +62,7 @@
 
   .app_footer-details p {
     height: 33vh;
-    overflow: scroll/;
+    overflow: scroll;
   }
   .app__footer-navbar ul li {
     font-size: 20px;

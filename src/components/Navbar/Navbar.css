@@ -4,8 +4,9 @@
   align-items: center;
 }
 .app__navbar-logo img {
-  width: 4rem;
-  height: 4rem;
+  width: 5rem;
+  margin-top: 7px;
+  height: 5rem;
 }
 .app__navbar {
   width: 100%;
