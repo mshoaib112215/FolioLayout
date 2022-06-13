@@ -1,0 +1,55 @@
+.app__services:hover {
+  width: 100%;
+  border-radius: 0;
+}
+.app__services {
+  height: 500px;
+  height: auto;
+
+  line-height: normal;
+  border: 2px solid var(--white-color);
+  width: 95%;
+  transition: all 0.3s ease-in-out;
+  border-radius: 16px;
+  height: auto;
+  margin: auto;
+  background: var(--primary-color);
+  /* border-radius: 16px; */
+  /* opacity: 0.8; */
+}
+
+.app__services-item {
+  background: var(--white-color);
+  width: 300px;
+  height: 350px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+  margin: 2rem;
+  border: px solid var(--gray-color);
+  border-radius: 12px;
+  padding: 2px;
+  /* opacity: 1; */
+
+  transition: all 0.3s ease-in-out;
+
+  box-shadow: 0px 0px 29px 5px rgba(0, 0, 0, 0.15);
+  cursor: default;
+}
+.app__services-item:hover {
+  transform: scale(110%);
+}
+.text__head-services span {
+  color: var(--secondary-color);
+}
+.text__head-services {
+  font-size: 2.75rem;
+  font-weight: 800;
+  text-align: center;
+  text-transform: capitalize;
+  width: 100%;
+
+  position: relative;
+  color: var(--white-color);
+}

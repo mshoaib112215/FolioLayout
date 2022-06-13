@@ -1,0 +1,55 @@
+.text__head span {
+  color: var(--secondary-color);
+}
+
+.app__about {
+  flex: 1;
+  width: 95%;
+  flex-direction: column;
+
+  border: 2px solid var(--white-color);
+
+  height: auto;
+  margin: auto;
+  background: var(--primary-color);
+  border-radius: 16px;
+  transition: all 0.3s ease-in-out;
+}
+
+.app__profiles {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+
+.app__profile-item {
+  background: var(--white-color);
+
+  width: 290px;
+  height: 250px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+  margin: 2rem;
+  border: px solid var(--gray-color);
+  border-radius: 12px;
+  padding: 2px;
+
+  transition: all 0.3s ease-in-out;
+
+  box-shadow: 0px 0px 29px 5px rgba(0, 0, 0, 0.15);
+  cursor: default;
+}
+.app__profile-item:hover {
+  transform: scale(110%);
+}
+.text__decoration {
+  text-align: center;
+}
+.app__about:hover {
+  width: 100%;
+  border-radius: 0px;
+}
