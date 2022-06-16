@@ -7,7 +7,7 @@ const Header = () => {
         <div className="app__header">
             <div className="app__header-intro">
                 <p>Hi, I am</p>
-                <h1>Shoaib</h1>
+                <h1>Noor</h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet modi delectus expedita, blanditiis provident error fugit ad aspernatur ipsam distinctio omnis itaque sapiente!</p>
             </div>
             <div className="app__header-image">

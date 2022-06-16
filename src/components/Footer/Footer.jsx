@@ -24,7 +24,7 @@ const Footer = () => {
                 </ul>
             </div>
             <div className="app__flex">
-                @2022 By Shoaib
+                @2022 By Noor
             </div>
         </div>
     )
