@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MyFolio/static/css/main.949d643a.css",
+    "main.js": "/MyFolio/static/js/main.5aa79ac7.js",
+    "static/media/bg.jpg": "/MyFolio/static/media/bg.0acaeec6d60e4dd1b623.jpg",
+    "static/media/bgIMG.png": "/MyFolio/static/media/bgIMG.c39101e520e2997fc6d4.png",
+    "static/media/profile2.png": "/MyFolio/static/media/profile2.ee489764521abe34026b.png",
+    "index.html": "/MyFolio/index.html",
+    "main.949d643a.css.map": "/MyFolio/static/css/main.949d643a.css.map",
+    "main.5aa79ac7.js.map": "/MyFolio/static/js/main.5aa79ac7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.949d643a.css",
+    "static/js/main.5aa79ac7.js"
+  ]
+}
